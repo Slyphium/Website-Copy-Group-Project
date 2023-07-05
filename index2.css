@@ -62,10 +62,10 @@ div.col-md-4 {
     max-height: 429px;
     position: relative;
 }
-div.col-md-6 img {
+/* div.col-md-6 img {
     height: 270px;
     width: 270px;
-}
+} */
 .btn {
     background-color: rgb(64, 133, 171);
     border-left-width: 1px;
@@ -75,4 +75,11 @@ div.col-md-6 img {
     display: inline-block;
     width: 217px;
     height: 47px;
+}
+.map-container {
+    text-align: center;
+}
+.feature-row-image-1 {
+    width: 678px;
+    height: 452px;
 }
