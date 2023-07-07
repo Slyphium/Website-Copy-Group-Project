@@ -83,3 +83,7 @@ div.col-md-4 {
     width: 678px;
     height: 452px;
 }
+a {
+    text-decoration:none;
+    color: #222323;
+}
